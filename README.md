@@ -1,1 +1,272 @@
-# Logindb
+{
+  "info_dialog": {
+    "close_btn_text": "TUTUP",
+    "nama_perangkat": "Halo",
+    "keterampilan_pengembang": "+6282239039809",
+    "dev_telegram": "NELAYAN OPREK",
+    "judul": "Hubungi melalui WhatsApp"
+  },
+  "tautan": {
+    "admin_redirect_url": "https://wa.link/6y4dy8"
+  },
+  "keamanan": {
+    "izin_perawatan_rumah_resmi": {
+      "VIP-1UPNWKL1JV": {
+        "tanggal_kedaluwarsa": "2026-08-05",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "d562ed97850539e8": {
+            "model": "REALME RMX5313"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-57Q0T3Y1F5": {
+        "tanggal_kedaluwarsa": "2026-08-05",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "bd725bb8b6e0c84c": {
+            "model": "OPPO CPH2777"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-ABJ8V2U44M": {
+        "tanggal_kedaluwarsa": "2026-08-02",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "35e45306be728c26": {
+            "model": "REALME RMX3780"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-CVLEEGUQMO": {
+        "tanggal_kedaluwarsa": "2026-08-05",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "8c16c878f6f15740": {
+            "model": "REALME RMX3242"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-GBN5DN6666": {
+        "tanggal_kedaluwarsa": "2026-08-14",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "7176fbd05d2a7de5": {
+            "model": "XIAOMI 2602BRNA4I"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-IMNRSRKCJR": {
+        "tanggal_kedaluwarsa": "2026-07-31",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "502faef28c76eb1a": {
+            "model": "REALME RMX2156"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-K5QOI2BLN6": {
+        "tanggal_kedaluwarsa": "2026-07-18",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "2dcf73eddf25ef8e": {
+            "model": "VIVO I2403"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-RQ1BDDEL7B": {
+        "tanggal_kedaluwarsa": "2026-08-05",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "fc782f7c8b8bf520": {
+            "model": "VIVO I2127"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-USG0KDLZNU": {
+        "tanggal_kedaluwarsa": "2026-08-07",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "226b6a80db3f5ad4": {
+            "model": "OPPO CPH2337"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-V8DZQ871WX": {
+        "tanggal_kedaluwarsa": "2026-08-18",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "43ead2ab8fbc563f": {
+            "model": "VIVO V2307"
+          },
+          "e414cff68fb72ac7": {
+            "model": "VIVO V2303"
+          }
+        },
+        "max_devices": 1000,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-YBQH06UXDG": {
+        "tanggal_kedaluwarsa": "2026-07-31",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "63fa632370bff734": {
+            "model": "XIAOMI 2310FPCA4I"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      }
+    }
+  },
+  "ui_settings": {
+    "broadcast_msg": "SEMUA PENGGUNA AKTIF Hubungi kami lewat WhatsApp (+6282239039809)Jika Anda tidak membayar biaya per kaki, maka itu bisa menjadi masalah.",
+    "main_bio": "JIKA ADA MASALAH LOGIN PENGGUNA, HUBUNGI KAMI MELALUI WHATSAPP DI NO +6282239039809.",
+    "nama_utama": "NELAYAN OPREK",
+    "pemeliharaan": salah,
+    "maintenance_msg": "1:--Apakah Anda mendapatkan aplikasi ini dari Omi Anonim Anda? Jika Anda mendapatkan aplikasi ini secara tidak sengaja, itu bukan tanggung jawab saya. Anda mungkin juga mengalami kerugian. Hubungi saya di t.me/NelayanOprek. 👍👍 ABAIKAN PESAN INI 👍👍",
+    "show_broadcast": true,
+    "tag_1": "+6282239039809",
+    "tag_2": "Whatsapp ",
+    "verify_btn_text": "Masuk"
+  }
+}
+
+            "model": "REALME RMX3242"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-GBN5DN6666": {
+        "tanggal_kedaluwarsa": "2026-08-14",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "7176fbd05d2a7de5": {
+            "model": "XIAOMI 2602BRNA4I"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-IMNRSRKCJR": {
+        "tanggal_kedaluwarsa": "2026-07-31",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "502faef28c76eb1a": {
+            "model": "REALME RMX2156"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-K5QOI2BLN6": {
+        "tanggal_kedaluwarsa": "2026-07-18",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "2dcf73eddf25ef8e": {
+            "model": "VIVO I2403"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-RQ1BDDEL7B": {
+        "tanggal_kedaluwarsa": "2026-08-05",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "fc782f7c8b8bf520": {
+            "model": "VIVO I2127"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-USG0KDLZNU": {
+        "tanggal_kedaluwarsa": "2026-08-07",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "226b6a80db3f5ad4": {
+            "model": "OPPO CPH2337"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-V8DZQ871WX": {
+        "tanggal_kedaluwarsa": "2026-08-18",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "43ead2ab8fbc563f": {
+            "model": "VIVO V2307"
+          },
+          "e414cff68fb72ac7": {
+            "model": "VIVO V2303"
+          }
+        },
+        "max_devices": 1000,
+        "perkataan": "",
+        "status": "aktif"
+      },
+      "VIP-YBQH06UXDG": {
+        "tanggal_kedaluwarsa": "2026-07-31",
+        "waktu_kedaluwarsa": "23:59",
+        "perangkat_tertaut": {
+          "63fa632370bff734": {
+            "model": "XIAOMI 2310FPCA4I"
+          }
+        },
+        "perangkat_maksimum": 1,
+        "perkataan": "",
+        "status": "aktif"
+      }
+    }
+  },
+  "ui_settings": {
+    "broadcast_msg": "SEMUA PENGGUNA AKTIF HAME WHATSAPP (+260 950463928)PER PESAN KARE NHI TOH MASALAH LOGIN HO SAKTA HAI",
+    "main_bio": "JIKA ADA MASALAH LOGIN PENGGUNA, HUBUNGI KAMI MELALUI WHATSAPP DI NO +260 950463928.",
+    "nama_utama": "MOD NMMS",
+    "pemeliharaan": salah,
+    "maintenance_msg": "1:-Kya apne Anonymous Omi se hi app liya h? agar kisi chor se app liya h to meri jimmedari nhi h apka nuksan bhi ho skta hai, mujhse contact karo t.me/anonymous_omi. 👍👍 ABAIKAN PESAN INI 👍👍",
+    "show_broadcast": true,
+    "tag_1": "+260 950463928",
+    "tag_2": "Whatsapp ",
+    "verify_btn_text": "Masuk"
+  }
+}
+

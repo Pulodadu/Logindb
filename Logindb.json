@@ -147,16 +147,4 @@
         "status": "aktif"
       }
     }
-  },
-  "ui_settings": {
-    "broadcast_msg": "SEMUA PENGGUNA AKTIF Hubungi kami lewat WhatsApp (+6282239039809)Jika Anda tidak membayar biaya per kaki, maka itu bisa menjadi masalah.",
-    "main_bio": "JIKA ADA MASALAH LOGIN PENGGUNA, HUBUNGI KAMI MELALUI WHATSAPP DI NO +6282239039809.",
-    "nama_utama": "NELAYAN OPREK",
-    "pemeliharaan": salah,
-    "maintenance_msg": "1:--Apakah Anda mendapatkan aplikasi ini dari Omi Anonim Anda? Jika Anda mendapatkan aplikasi ini secara tidak sengaja, itu bukan tanggung jawab saya. Anda mungkin juga mengalami kerugian. Hubungi saya di t.me/NelayanOprek. 👍👍 ABAIKAN PESAN INI 👍👍",
-    "show_broadcast": true,
-    "tag_1": "+6282239039809",
-    "tag_2": "Whatsapp ",
-    "verify_btn_text": "Masuk"
   }
-}
